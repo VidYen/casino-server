@@ -56,6 +56,13 @@ PM2 is a production process manager for Node.js applications with a built-in loa
 
 [Read More](https://github.com/Unitech/pm2)
 
+* Axios
+
+Uses Axios for the Miner gets.
+`sudo npm install axios`
+
+[Read More](https://flaviocopes.com/axios/)
+
 # Installation #
 
 * Installing globally and run as service with PM2: 
