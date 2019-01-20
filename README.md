@@ -63,6 +63,7 @@ Uses Axios for the Miner gets.
 `sudo npm install axios`
 
 [Read More](https://flaviocopes.com/axios/)
+[Dependencies](https://www.npmjs.com/package/axios)
 
 # Installation #
 
